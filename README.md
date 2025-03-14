@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wndslayer
+- 👋 Hi, I’m wnd.
 - 👀 I’m interested in C# and lo-fi music
 - 🌱 I’m currently learning C# 
 - 💞️ I’m looking to collaborate on idk tbh
