@@ -7,7 +7,7 @@
 ---
 
 ### 🛠️ Технологии и инструменты:
-![My Skills](https://skillicons.dev/icons?i=cs,linux,docker,bash,git,vscode,neovim)
+![My Skills](https://skillicons.dev/icons?i=cs,linux,docker,bash,git,vscode,neovim,arch)
 
 ---
 
