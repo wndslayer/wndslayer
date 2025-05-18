@@ -1,12 +1,15 @@
 # Sup, ya wnd. 👋
 
+wnd :: terminal :: lo-fi :: linux
+
+
 💻 Программист, интересующийся C#, Linux и DevOps.  
 🎧 Код под lo-fi, 432 HZ или под low-pitched ambient, which made by me btw.  
 🌱 Сейчас изучаю: C#, Docker, Linux.
 
 ---
 
-### 🛠️ Чем пользуюсь:
+### 🛠️ Мои инструменты:
 ![My Skills](https://skillicons.dev/icons?i=cs,linux,docker,bash,arch,obsidian)
 
 ---
@@ -31,8 +34,7 @@
 ---
 
 ### 🗂️ Закреплю позже:
-Пока что тут тихо, но скоро будет:
-- bash script's I think
+- bash scripts I think
 - and other cool stuff :)
 
 ---
