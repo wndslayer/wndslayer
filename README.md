@@ -19,7 +19,7 @@
 ---
 
 ### 🤝 Хочешь пообщаться?
-Пиши в [Telegram](https://t.me/wndslayer
+Пиши в [Telegram](https://t.me/wndslayer)
 
 ---
 
