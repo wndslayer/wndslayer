@@ -1,12 +1,35 @@
-- 👋 Hi, I’m wnd.
-- 👀 I’m interested in C# and lo-fi music
-- 🌱 I’m currently learning C# 
-- 💞️ I’m looking to collaborate on idk tbh
-- 📫 How to reach me write me in telegram
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Привет, я wnd 👋
 
-<!---
-wndslayer/wndslayer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Программист, интересующийся C#, Linux и DevOps.  
+🎧 Код под lo-fi, пишу заметки в Obsidian и кайфую от терминала.  
+🌱 Сейчас изучаю: C#, Docker, CI/CD, систему как искусство.
+
+---
+
+### 🛠️ Технологии и инструменты:
+![My Skills](https://skillicons.dev/icons?i=cs,linux,docker,bash,git,vscode,neovim)
+
+---
+
+### 📌 Мои интересы:
+- Разработка CLI-тулинга
+- Настройка окружения как второй кожи
+- Построение базы знаний (Zettelkasten, Obsidian)
+- DevOps-подход к личной системе
+
+---
+
+### 🤝 Хочешь пообщаться?
+Пиши в [Telegram](https://t.me/твойник) или создай issue, если хочешь предложить коллаб.
+
+---
+
+### 🗂️ Закреплю позже:
+Пока что тут тихо, но скоро будет:
+- dotfiles
+- devops-playground
+- obsidian-вольт
+
+---
+
+> *"Тишина — это не отсутствие кода, это его подготовка."*
