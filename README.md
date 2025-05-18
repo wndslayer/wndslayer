@@ -36,4 +36,4 @@
 
 ---
 
-> *"wnd's path is like a wind...free and unpredictable..."*
+> *"wnd's path is like a wind ... free and unpredictable ..."*
