@@ -1,7 +1,7 @@
 # Sup, ya wnd. 👋
 
-💻 Программист, интересующийся C#, Linux и DevOps.  
-🎧 Код под lo-fi, 432 HZ или под low-pitched ambient, which made by me btw
+💻 Программист, интересующийся C#, Linux и DevOps.
+🎧 Код под lo-fi, 432 HZ или под low-pitched ambient, which made by me btw.
 🌱 Сейчас изучаю: C#, Docker, Linux.
 
 ---
