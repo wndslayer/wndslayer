@@ -1,1 +1,1 @@
-![My Skills](https://skillicons.dev/icons?i=cs,docker,arch)
+![My Skills](https://skillicons.dev/icons?i=cs,docker,arch,nvim)
